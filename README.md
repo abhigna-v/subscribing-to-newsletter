@@ -1,3 +1,5 @@
 # subscribing-to-newsletter
 
-Allow users to subscribe  to a newsletter.
+Allows users to subscribe  to a newsletter .
+built using nodejs.
+used mailchimp's servers to handle requests.
