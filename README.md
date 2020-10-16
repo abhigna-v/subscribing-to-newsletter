@@ -2,4 +2,4 @@
 
 Allows users to subscribe  to a newsletter .
 built using nodejs.
-used mailchimp's servers to handle requests.
+used mailchimp to handle requests.
